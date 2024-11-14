@@ -1,3 +1,4 @@
+Задание 1
 
 word = input('Введите слово')
 word_index_1 = None
@@ -11,7 +12,7 @@ elif len(word) % 2 != 0:
     print(word[word_index_2])
 else: print('Ошибка')
 
-
+Задание 2
 boys = ['max', 'peter', 'sam']
 girls = ['kate', 'ann', 'nancy', 'lucy']
 sorted_boys = sorted(boys)
